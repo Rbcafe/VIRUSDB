@@ -1,5 +1,0 @@
-# VIRUSDB : javascript
-
-Javascript section
-
-c8ff4c152766d37e5e8b47f1b6ebf27b5be7af3649283330c342d8a561c77b01
