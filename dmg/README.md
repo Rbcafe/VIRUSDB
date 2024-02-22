@@ -1,3 +1,0 @@
-# VIRUSDB : dmg
-
-Dmg section
